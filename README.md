@@ -20,7 +20,6 @@ Provides high-level performance indicators:
 - Total Profit
 - Profit Margin
 - Total Orders
-- Total Customers
 
 Includes:
 
@@ -80,7 +79,6 @@ Provides a structured entry point to the dashboard.
 Features:
 
 - Button-based navigation
-- Page switching macros
 - Clean report-style interface
 - Default landing sheet on workbook open
 
@@ -136,21 +134,6 @@ Examples of insights supported by the dashboard:
 
 ## Dataset
 
-**Source:** Superstore dataset (commonly used for analytics practice)
-
-Contains:
-
-- Orders
-- Customers
-- Products
-- Regions
-- Sales
-- Profit
-- Dates
-- Segments
-
-The dataset simulates a retail business environment suitable for performance analytics.
+**Source:** Superstore dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ---
-
-## File Structure
