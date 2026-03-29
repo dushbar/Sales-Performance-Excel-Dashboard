@@ -107,7 +107,6 @@ This project demonstrates practical analyst-level Excel capabilities.
 
 - INDEX + MATCH
 - UNIQUE
-- COUNTA
 - IF logic
 - Aggregation formulas
 
